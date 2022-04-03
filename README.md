@@ -4,7 +4,7 @@ This is a skeleton project for sveltekit
 
 - Node adapter
   - basic node server included
-    > build the app then run the `serve` script to use the server or just use the `b:serve`
+    > build the app then run the `serve` script to use the server or just use the `b:serve` script
 - PostCSS
   - postcss-nested
   - autoprefixer
